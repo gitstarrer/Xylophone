@@ -1,6 +1,6 @@
 
 # Xylophone
-/Users/base/Desktop/angela /gitHub/4.Xylophone-iOS13/Xylophone.png
+![Xylophone](https://user-images.githubusercontent.com/67234999/88569678-68130d80-d058-11ea-8385-efe00591b763.png)
 
 ## About the app
 
